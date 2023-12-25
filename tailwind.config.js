@@ -5,7 +5,15 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx,mdx}'
   ],
   theme: {
-    extend: {}
+    extend: {
+      colors: {
+        bgColor: '#000000',
+        color: '#ffffff'
+      },
+      backgroundImage: (theme) => ({
+        'banner-bg': "url('../accets/bannerImg.jpg')"
+      })
+    }
   },
   plugins: []
 };
