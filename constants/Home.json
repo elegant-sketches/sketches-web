@@ -1,0 +1,54 @@
+{
+  "carouselData": [
+    {
+      "id": "one",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/ee82df49-d0e6-4716-a0bc-3b9549372be6.jpg",
+      "alt": "GST amendment discussion panel"
+    },
+    {
+      "id": "two",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/897e9d01-d18c-4226-ab48-1f16b7319c8b.jpg",
+      "alt": "GST speech by vikas modi"
+    },
+    {
+      "id": "three",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/9ea0c2c6-d166-4a10-92b6-642750b1692b.jpg",
+      "alt": "GST reward ceremony"
+    },
+    {
+      "id": "foure",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/33876349-0a5c-4a0e-9de8-d5b2b6028caa.jpg",
+      "alt": "discussion on new GST amendments"
+    },
+    {
+      "id": "five",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/04c0b5d5-bc65-4d3e-8917-0b406134f12f.jpg",
+      "alt": "GST amendment discussion by CA vikas modi"
+    },
+    {
+      "id": "clod4rdrt0000i11q6iurfin8",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/f49664d8-30da-44a9-8249-a49bce8baec1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA4VAFS564PA2ATYF6%2F20231030%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231030T164758Z&X-Amz-Expires=604800&X-Amz-Signature=715801e7d6a481b70e61b437249f109ad534cf12fa92cf6feec4666137e8d810&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "alt": "Vikas modi with his colleages"
+    },
+    {
+      "id": "six",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/026e3280-724d-4ab3-a8e1-f7c473b0d476.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA4VAFS564PA2ATYF6%2F20231030%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231030T170754Z&X-Amz-Expires=604800&X-Amz-Signature=478b5b13dd2e18dc244af30e04a6691c35ac61c155ed26c200444ce09510aeea&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "alt": "Vikas modi with his colleages"
+    },
+    {
+      "id": "seven",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/e572c973-3810-4f11-b426-dc7f2bac625e.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA4VAFS564PA2ATYF6%2F20231030%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231030T170829Z&X-Amz-Expires=604800&X-Amz-Signature=e3a1ba4402fb0daeeab938f060029fee086e4fcc1cffc360aedccf9531d0fb04&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "alt": "Vikas modi with his colleages"
+    },
+    {
+      "id": "eight",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/ec132de9-475d-41b2-804a-ca9f30e7aeed.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA4VAFS564PA2ATYF6%2F20231030%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231030T170920Z&X-Amz-Expires=604800&X-Amz-Signature=695ba20d2154370d4d3d8a5fe2d67222e77cd308cd6b75409b6ddad96ae327bf&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "alt": "Vikas modi presenting at tax seminar"
+    },
+    {
+      "id": "nine",
+      "src": "https://assets.gskumawat.me/txls/assets/images/general/defc5ca0-81f0-42e8-a483-b1f8913888a8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA4VAFS564PA2ATYF6%2F20231030%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20231030T170958Z&X-Amz-Expires=604800&X-Amz-Signature=e2f78c789b8d73630c8fd7dd23f68f22219a618e3db7af52d41a2d9166a486e4&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "alt": "Vikas modi presenting at Forti seminar"
+    }
+  ]
+}
